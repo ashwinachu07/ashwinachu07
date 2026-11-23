@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ashwinachu07
+- 👋 Hi, I’m Ashwin (@ashwinachu07)
 - 👀 Interested in AI workflows, rapid prototyping, and debugging complex systems
 - 🌱 Building and shipping projects using AI tools, APIs, and modern web stacks
 - More projects: [@AshwinShinu](https://github.com/AshwinShinu)  
